@@ -1,0 +1,10 @@
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.TicTacToeForm.resources
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\SG\Project\C# Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
